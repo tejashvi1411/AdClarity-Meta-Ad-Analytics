@@ -1,4 +1,4 @@
-# 📊 AdClarity Ad Campaign Analytics
+# AdClarity Ad Campaign Analytics
 
 ##  Summary  
 This project analyzes Meta advertising campaigns to evaluate their performance and effectiveness. It focuses on key marketing metrics such as impressions, clicks, conversions, and return on investment (ROI).
@@ -19,35 +19,34 @@ This project aims to solve these challenges through data analysis and visualizat
 
 ##  Project Structure  
 
-
-│── data
-│── Python notebooks
-│── Tableau dashboards
-│── SQL
-│── Requirement Documents
-│── README.md 
+The structure includes:
+   -data(400K+ Ad events)
+   -Python notebooks
+   -Tableau dashboards
+   -SQL Analysis
+   - Reports
 
 
 ---
 
-## 📊 Dataset Description  
+## Dataset Description  
 The dataset includes:
 - Campaign details (platform, category, type)  
 - Audience demographics (age, gender, interests)  
 - Engagement metrics (impressions, clicks, likes, shares)  
 - Conversion data (engagement to purchases)  
-- Cost-related metrics (CPC, CPA, Budget)  
+ 
 
 ---
 
-## 🛠️ Tools & Technologies  
+## Tools & Technologies  
 - SQL  
 - Python (Pandas, NumPy, Matplotlib) 
 - Tableau 
 
 ---
 
-## 📈 Key Metrics Analyzed  
+## KPIs Analyzed  
 - **CTR (Click-Through Rate)**  
 - **CPC (Cost Per Click)**  
 - **Conversion Rate**  
@@ -58,7 +57,7 @@ The dataset includes:
 
 ---
 
-## 🔍 Analysis Performed  
+## Analysis Performed  
 - Data Cleaning & Preprocessing  
 - Exploratory Data Analysis (EDA)  
 - KPI Calculation  
@@ -68,7 +67,7 @@ The dataset includes:
 
 ---
 
-## 📊 Key Insights  
+## Key Insights  
 - Identified top-performing ad campaigns and platforms  
 - Found audience segments with higher conversion rates  
 - Analyzed cost efficiency and ROI trends  
