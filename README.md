@@ -59,7 +59,6 @@ The dataset includes:
 - **CPC (Cost Per Click)**  
 - **Conversion Rate**  
 - **CPA (Cost Per Acquisition)**  
-- **ROI (Return on Investment)**
 - **Purchase Rate**
    
 
@@ -77,8 +76,7 @@ The dataset includes:
 
 ## Key Insights  
 - Identified top-performing ad campaigns and platforms  
-- Found audience segments with higher conversion rates  
-- Analyzed cost efficiency and ROI trends  
+- Found audience segments with higher conversion rates    
 - Suggested strategies for better budget allocation  
 
 ---
