@@ -23,7 +23,7 @@ The structure includes:
    - Reports
    - SQL Analysis
    - Tableau dashboards
-   - ython notebooks
+   - Python EDA
    - Data(400K+ Ad Points)
 
 
