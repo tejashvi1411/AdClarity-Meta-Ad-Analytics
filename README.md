@@ -20,12 +20,20 @@ This project aims to solve these challenges through data analysis and visualizat
 ##  Project Structure  
 
 The structure includes:
-   -data(400K+ Ad events)
-   -Python notebooks
-   -Tableau dashboards
-   -SQL Analysis
    - Reports
+   - SQL Analysis
+   - Tableau dashboards
+   - ython notebooks
+   - Data(400K+ Ad Points)
 
+
+
+
+---
+## Dashboards  
+![Dashboard](https://github.com/tejashvi1411/AdClarity-Meta-Ad-Analytics/blob/main/Tableau%20Dashboard/Facebook.png)
+![Dashboard](https://github.com/tejashvi1411/AdClarity-Meta-Ad-Analytics/blob/main/Tableau%20Dashboard/Instagram.png)
+ 
 
 ---
 
