@@ -1,7 +1,7 @@
 # AdClarity Ad Campaign Analytics
 
 ##  Summary  
-This project analyzes Meta advertising campaigns to evaluate their performance and effectiveness. It focuses on key marketing metrics such as impressions, clicks, conversions, and return on investment (ROI).
+This project analyzes Meta advertising campaigns to evaluate their performance and effectiveness. It focuses on key marketing metrics such as impressions, clicks and conversions
 
 The objective is to derive actionable insights that help optimize ad strategies and improve overall campaign performance.
 
