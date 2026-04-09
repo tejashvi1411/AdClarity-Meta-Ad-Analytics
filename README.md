@@ -11,7 +11,7 @@ The objective is to derive actionable insights that help optimize ad strategies 
 Businesses invest heavily in online advertising but often struggle to:
 - Identify high-performing campaigns  
 - Understand audience behavior  
-- Optimize ad spending  
+- Optimize and improve campaign strategy
 
 This project aims to solve these challenges through data analysis and visualization.
 
@@ -42,7 +42,7 @@ The dataset includes:
 - Campaign details (platform, category, type)  
 - Audience demographics (age, gender, interests)  
 - Engagement metrics (impressions, clicks, likes, shares)  
-- Conversion data (engagement to purchases)  
+ 
  
 
 ---
